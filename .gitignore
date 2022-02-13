@@ -1,0 +1,17 @@
+__pycache__
+.env
+.history
+.hypothesis/
+build/
+reports/
+front_end/node_modules
+front_end/.DS_Store
+front_end/.env.local
+front_end/.env.development.local
+front_end/.env.test.local
+front_end/.env.production.local
+front_end/npm-debug.log*
+front_end/yarn-debug.log*
+front_end/yarn-error.log*
+front_end/.pnp
+front_end/.pnp.js
