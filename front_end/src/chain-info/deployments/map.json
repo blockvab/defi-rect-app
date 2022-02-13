@@ -1,0 +1,15 @@
+{
+  "42": {
+    "DappToken": [
+      "0x99B8602c6A5C72615E29816CF42BbaaB17b90Aef",
+      "0x9f18e70705B3dB449aac0df639eD3714e8a8712c"
+    ],
+    "MockERC20": [
+      "0xA41ba937F7600D07CEe6280839A221E403560472"
+    ],
+    "TokenFarm": [
+      "0x8492585e7b3da58b7C0F2902e50236472e8E81Bb",
+      "0xBb5e0Fc56d0f3c61049d1b9fCe3a813F691b0717"
+    ]
+  }
+}
